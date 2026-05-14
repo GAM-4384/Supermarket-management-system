@@ -28,6 +28,4 @@
 
 欢迎提交问题和合并请求。对于重大更改，请先开issue讨论您想要改变的内容。
 
-## 许可证
 
-[MIT](https://choosealicense.com/licenses/mit/)
